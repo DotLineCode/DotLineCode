@@ -1,24 +1,24 @@
-# Nebulon AI Art Generator 🎨  
+# DotLineCodeAI Agent Creator
 
-Nebulon AI is an advanced AI-powered tool designed to create stunning and unique art portraits. By blending cutting-edge technology with user-centric features, Nebulon AI empowers creators to transform simple text prompts into breathtaking artworks. Whether you're an artist, designer, or enthusiast, Nebulon AI makes high-quality, personalized art accessible and effortless.
+DotLineCodeAI is an advanced AI-powered tool designed to create intelligent and dynamic AI agents. By blending cutting-edge technology with user-centric features, DotLineCodeAI empowers developers to transform simple text prompts into fully functional AI agents. Whether you're a developer, researcher, or enthusiast, DotLineCodeAI makes high-quality, personalized agent creation accessible and effortless.
 
 ## Features  
 **Dynamic Prompt System**: Users input prompts specifying styles, moods, and colors, such as "Abstract, vibrant, blue tones," to guide the creative process.
-**Style Versatility**: From realism to surrealism, Nebulon AI adapts to a wide range of artistic styles.
+**Style Versatility**: From realism to surrealism, DotLineCodeAI adapts to a wide range of artistic styles.
 **Custom Color Palettes**: Generates harmonious palettes that match the mood and theme of the prompt.
 **AI-Driven Rendering**: Uses advanced neural networks to produce professional-grade visuals.
 
 ## Core Components  
 1. **Prompt Parser**: Analyzes input prompts to extract styles, moods, and color preferences.  
-2. **Color Palette Generator**: Generates color schemes based on user-defined prompts.  
-3. **Image Renderer**: Renders digital artwork based on parsed prompts and palettes.  
-4. **AI Model Loader**: Loads pre-trained GAN models for advanced art generation.
+2. **Behavior Model Generator**: Creates dynamic models to simulate the desired agent personalities and capabilities.
+3. **Task Logic Builder**: Implements workflows and decision-making algorithms based on parsed prompts.
+4. **AI Model Loader**: Loads pre-trained models for natural language understanding and task execution.
 
 ## How It Works
-**Input Prompt**: Users provide a description of their desired artwork.
-**Parsing and Processing**: Nebulon AI analyzes the input to determine style, mood, and palette.
-**Artwork Generation**: Using pre-trained models and algorithms, Nebulon AI creates a unique digital artwork.
-**Output**: The final image is saved and ready for download or sharing.
+**Input Prompt**: Users provide a description of their desired agent.
+**Parsing and Processing**: DotLineCodeAI analyzes the input to determine roles, tasks, and behavior.
+**Agent Generation**: Using pre-trained models and algorithms, DotLineCodeAI creates a unique AI agent with defined tasks and personality.
+**Output**: The final agent is saved and ready for deployment or integration.
 
 ## Workflow  
 1. **Input**: User provides a prompt (e.g., "Abstract, calm mood, blue and yellow").  
@@ -29,11 +29,12 @@ Nebulon AI is an advanced AI-powered tool designed to create stunning and unique
 3. **Output**: Final artwork is saved and displayed for the user.  
 
 ## Technologies Used  
-- Python  
-- PyTorch  
-- Pillow  
-- Matplotlib  
-- Flask  
+- Python
+- PyTorch
+- TensorFlow
+- Flask
+- NLTK
+- OpenAI GPT Models
 
 ## Vision
-Nebulon AI aims to democratize art creation, making it intuitive and inclusive for everyone. By combining artistic intuition with AI innovation, Nebulon AI is not just a tool—it’s a creative partner for bringing ideas to life. 🎨✨
+DotLineCodeAI aims to democratize AI agent creation, making it intuitive and inclusive for everyone. By combining logical precision with AI innovation, DotLineCodeAI is not just a tool—it’s a partner for building intelligent and impactful AI agents tailored to your needs.
