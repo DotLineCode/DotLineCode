@@ -2,7 +2,7 @@ import torch
 from torchvision import transforms
 from PIL import Image
 import random
-
+ 
 class ArtGenerator:
     def __init__(self, model_path="models/pretrained_model.pth"):
         self.model = torch.load(model_path, map_location=torch.device('cpu'))
