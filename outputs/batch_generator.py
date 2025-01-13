@@ -1,5 +1,5 @@
 from src.art_generator import ArtGenerator
-
+ 
 def batch_generate(prompts, output_folder):
     generator = ArtGenerator()
     for idx, prompt in enumerate(prompts):
