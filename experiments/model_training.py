@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-
+ 
 # Example Model Definition
 class SimpleArtModel(nn.Module):
     def __init__(self):
