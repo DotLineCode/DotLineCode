@@ -2,7 +2,7 @@ import unittest
 from src.ai_model_loader import AIModelLoader
 
 class TestAIModelLoader(unittest.TestCase):
-    def test_load_model(self):
+    def test_load_model(self): 
         model_loader = AIModelLoader("models/pretrained_model.pth")
         model = model_loader.load_model()
         self.assertIsNotNone(model)  # Ensure model is loaded
